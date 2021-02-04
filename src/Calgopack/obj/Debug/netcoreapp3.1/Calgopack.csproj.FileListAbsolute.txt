@@ -1,0 +1,13 @@
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/bin/Debug/netcoreapp3.1/Calgopack
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/bin/Debug/netcoreapp3.1/Calgopack.deps.json
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/bin/Debug/netcoreapp3.1/Calgopack.runtimeconfig.json
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/bin/Debug/netcoreapp3.1/Calgopack.runtimeconfig.dev.json
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/bin/Debug/netcoreapp3.1/Calgopack.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/bin/Debug/netcoreapp3.1/Calgopack.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/obj/Debug/netcoreapp3.1/Calgopack.csprojAssemblyReference.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/obj/Debug/netcoreapp3.1/Calgopack.AssemblyInfoInputs.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/obj/Debug/netcoreapp3.1/Calgopack.AssemblyInfo.cs
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/obj/Debug/netcoreapp3.1/Calgopack.csproj.CoreCompileInputs.cache
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/obj/Debug/netcoreapp3.1/Calgopack.dll
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/obj/Debug/netcoreapp3.1/Calgopack.pdb
+/home/steven/Documents/sphereConsultancy/csharpproj/calgopack/src/Calgopack/obj/Debug/netcoreapp3.1/Calgopack.genruntimeconfig.cache
