@@ -17,8 +17,9 @@ namespace Calgopack
         {
 
             Console.WriteLine("Which day of the week do you want to display?");
-            System.Console.WriteLine("e.g Monday= 0, etc");
-            int daychosen = int.Parse(Console.ReadLine());
+            System.Console.WriteLine("e.g Monday= 1, etc");
+            int input = int.Parse(Console.ReadLine());
+            int daychosen = input - 1;
             string day = daysOfWeek[daychosen];
             System.Console.WriteLine($"That day is {day}");
 

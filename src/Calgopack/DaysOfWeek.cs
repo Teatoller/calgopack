@@ -24,6 +24,10 @@ namespace Calgopack
             }
 
         }
+        public void AmendArray(int index, string args)
+        {
+            daysOfWeek[index] = args;
+        }
 
     }
 }
